@@ -53,3 +53,5 @@ Kelime ifadelerini getirir.
 
 * **/i** Büyük/küçük harfe duyarlı bir arama yapar.
 * **/g** İlk eşleşmeden sonra durmak yerine tüm eşleşmeleri bulur.
+
+*Örnekler üzerinde başarılı bir şekilde bir çalışıyor fakat daha iyi noktaya gelmesi için geliştirilebilir.*
